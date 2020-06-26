@@ -1,4 +1,4 @@
-# Angular-CURD-Opearations-With-Firebase-Database
+# Angular-CRUD-Operations-With-Firebase-Database
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.5.
 
